@@ -1,0 +1,150 @@
+1, 1, Mistä maasta tunnettu reggae-muusikko Bob Marley oli kotoisin?, Jamaikalta, Yhdysvalloista, Etiopiasta, Ghanasta
+1, 2, Mikä on kuuma Pelle Miljoonan tunnetussa kappaleessa?, Moottoritie, Hella, Aurinko, Sauna
+1, 3, Mitä päivää pidetään perinteisesti epäonnenpäivänä?, Perjantai 13., Maanantai 14., Keskiviikko 10., Sunnuntai 9.
+1, 4, Minkä sanaluokan sana vastaa kysymykseen "millainen"?, Adjektiivi, Verbi, Numeraali, Pronomini
+1, 5, Kuinka monta kertaa Suomessa on järjestetty kesäolympialaiset?, Kerran, Ei kertaakaan, kaksi kertaa, kolme kertaa
+1, 6, Mikä seuraavista on kuuluisa suomalainen lautapeli?, Afrikan tähti, Euroopan tähti, Aasian tähti, Amerikan tähti
+1, 7, Minkä valtion alkuperäisasukkaita kutsutaan aboriginaaleiksi?, Australian, Kenian, Itävallan, Japanin
+1, 8, Mikä tapa aiheuttaa ongelmia tunnetulle hahmolle Herra Hakkaraiselle?, Unissakävely, Ylensyönti, Kynsien pureskelu, Myöhästely
+1, 9, Kuinka monta tasavallan presidenttiä Suomessa on ollut (2023)?, 12, 10, 14, 8
+1, 10, Mikä tai kuka on kaiken takana Matin ja Tepon hittibiisin mukaan?, Nainen, Poliisi, Jumala, Kohtalo
+2, 1, Mikä yö-yhtyeen kappaleista alkaa sanoilla "Taas lapset pihalla näät"?, Joutsenlaulu, Likaiset legendat, Ihmisen poika, Parrasvalot
+2, 2, Millä vuosikymmenellä päättyi toinen maailmansota?, 1940-luvulla, 1950-luvulla, 1930-luvulla, 1960-luvulla
+2, 3, Mikä oli Suomen rahayksikkö vuonna 1995?, Markka, Kruunu, Euro, Sentti
+2, 4, Kuinka monta tavua on sanassa "miljonääriksi"?, viisi, kolme, neljä, kuusi
+2, 5, Mikä on Suomen entisen pääministerin Antti Rinteen puolue?, SDP, Keskusta, Kokoomus, Perussuomalaiset
+2, 6, Mikä seuraavista automerkeistä on lähtöisin Ruotsista?, Volvo, Ford, Audi, Nissan
+2, 7, Kuinka monta nollaa on miljardissa?, 9, 6, 12, 3
+2, 8, Minkä valtakunnan historiaan liittyvät gladiaattorit?, Rooman, Bysantin, Kreikan, Egyptin
+2, 9, Mikä on laulaja Tauno Peltosen taiteilijanimi?, Tauski, Tappi, Peto, Peltsi
+2, 10, Minkä sarjakuvahahmon englanninkielinen nimi on Snoopy?, Ressun, Hessu Hopon, Pluton, Kippari-Kallen
+3, 1, Mikä suomalaisyhtye voitti Euroviisut Ateenassa vuonna 2006?, Lordi, Teräsbetoni, Taikapeili, Souvarit
+3, 2, Minkä kaupungin nähtävyyksiä ovat Big Ben ja Westminster Abbey?, Lontoon, New Yorkin, Melbournen, Montrealin
+3, 3, Mikä on Ruotsin kruunuprinsessa Victorian siskon nimi?, Madeleine, Bertil, Leonore, Silvia
+3, 4, Mitä lukua pidetään perinteisestin pedon lukuna?, 666, 4, 911, 112
+3, 5, Mistä Helsingin kaupunginosasta kuppa sanonnan mukaan lähti?, Töölöstä, Jätkäsaaresta, Haagasta, Kampista
+3, 6, Kenen näyttelijän tunnettuja hahmoja ovat Han Solo ja Indiana Jones?, Harrison Fordin, Tom Cruisen, Mel Gibsonin, Al Pacinon
+3, 7, Minä vuonna Suomessa otettiin eurot käyttöön?, 2002, 1995, 2000, 1998
+3, 8, Mitä kuvitteellista urheilulajia harrastetaan Harry Potter -kirjoissa?, Huispausta, Venkslausta, Suppausta, Neppailua
+3, 9, Kuinka monta maata on tavallisessa korttipakassa?, neljä, yksi, kaksi, kolme
+3, 10, Minkä yhtiön perustaja ja toimitusjohtaja on Ilkka Paananen?, Supercellin, Nokian, Rovion, Fortumin
+4, 1, Millä tutummalla nimellä tunnetaan menopaussi?, Vaihdevuodet, Murrosikä, Välivuosi, Saattohoito
+4, 2, Mikä Helsingin nähtävyys on ruotsiksi Högholmen?, Korkeasaari, Linnanmäki, Seurasaari, Suomenlinna
+4, 3, Mitä seismologi tutkii?, Maanjäristyksiä, Planeettoja, Syöpätauteja, Nukkumista
+4, 4, Mikä on asukasluvultaan Yhdysvaltojen toiseksi suurin kaupunki?, Los Angeles, Chicago, Boston, Houston
+4, 5, Missä kaupungissa sijaitsee kuuluisa Sorbonnen yliopisto?, Pariisissa, Roomassa, Brysselissä, Amsterdamissa
+4, 6, Kenen supersankarin peitenimi on Clark Kent?, Teräsmiehen, Mustanaamion, Hulkin, Hämähäkkimiehen
+4, 7, Mikä planeetta tunnetaan myös lempinimellä "punainen planeetta"?, Mars, Venus, Jupiter, Saturnus
+4, 8, Kuka seuraavista on yksi Batmanin päävihollisista?, Arvuuttaja, Naurattaja, Vastailija, Suosittelija
+4, 9, Mikä on ylioppilastutkinnon korkein arvosana Suomessa?, Laudatur, Eximia, Approbatur, Magna cum laude
+4, 10, Minkä maalainen on laulaja Anna Abreun isä?, Portugalilainen, Belgialainen, Libyalainen, Kreikkalainen
+5, 1, Kuka kreikkalaisen taruston hahmo rakastui omaan peilikuvaansa?, Narkissos, Eteokles, Oidipus, Herakles
+5, 2, Millä nimellä tubettaja Eric Savolainen tunnetaan Youtubessa?, Lakko, Herbalisti, Pinkku Pinsku, RudiRok
+5, 3, Mikä on hiilimonoksidin tutumpi nimitys?, Häkä, Tuhka, Etanoli, Suola
+5, 4, Minkä nimisen albumin Michael Jackson julkaisi vuonna 1987?, Bad, OK, Good, Normal
+5, 5, Missä jalkapallojoukkueessa Teemu Pukki pelasi vuonna 2019?, Norwich Cityssä, Arsenal FC:ssä, Manchester Cityssä, West Ham Unitedissa
+5, 6, Millä vuosisadalla Napoléon Bonaparte syntyi?, 1700-luvulla, 1600-luvulla, 1800-luvulla, 1500-luvulla
+5, 7, Minkä maan pääkaupunki on Kathmandu?, Nepalin, Bhutanin, Bangladeshin, Myanmarin
+5, 8, Mikä on koripalloilija Lauri Markkasen isän etunimi?, Pekka, Hannu, Sauli, Ville
+5, 9, Mitkä vaalit Suomessa peruttiin vuonna 2018?, Maakuntavaalit, Kuntavaalit, Eduskuntavaalit, Kirkollisvaalit
+5, 10, Kuka liikemies tunnetaan Virgin-brändistään?, Richard Branson, Jeff Bezos, Elon Musk, Bill Gates
+6, 1, Minkä automerkin malli on Galant?, Mitsubishin, Nissanin, Toyotan, Fordin
+6, 2, Missä kaupungissa Kimi Räikkönen on syntynyt?, Espoossa, Kouvolassa, Hämeenlinnassa, Lahdessa
+6, 3, Missä meressä sijaitsee Polynesian saariryhmä?, Tyynessämeressä, Jäämeressä, Atlantissa, Välimeressä
+6, 4, Mikä seuraavista on Aleksis Kiven kirjoittama näytelmä?, Lea, Saara, Mervi, Anna
+6, 5, Mikä suurpeto on myös Anssi Kelan hittibiisi vuodelta 2018?, Ilves, Ahma, Susi, Karhu
+6, 6, Mikä oli mäkihyppääjä Matti Nykäsen toinen nimi?, Ensio, Raine, Arvo, Jalmari
+6, 7, Minkä maalainen muotiketju on Kappahl?, Ruotsalainen, Norjalainen, Suomalainen, Saksalainen
+6, 8, Mikä on maapallon kolmanneksi väkirikkain valtio?, Yhdysvallat, Brasilia, Intia, Indonesia
+6, 9, Kuka ohjasi Kummisetä-trilogian?, Francis Ford Coppola, Martin Scorsese, Steven Spielberg, Stanley Kubrick
+6, 10, Kuka on Neljä Ruusua -yhtyeen keulahahmo?, Ilkka Alanko, Aki Tykki, Vesa Haaja, Marko Hietala
+7, 1, Missä maassa jääkiekkoilija Jesse Puljujärvi on syntynyt?, Ruotsissa, Suomessa, Liberiassa, Yhdysvalloissa
+7, 2, Mikä on vuonna 2020 aloittaneen MTV3:n aamuohjelman nimi?, Uutisaamu, Herää Suomi, Kello soi, Huomenta vaan
+7, 3, Miltä paikkakunnalta on laulava sisarduo Maustetytöt?, Vaalasta, Soinista, Jokioisilta, Viitasaarelta
+7, 4, Kuka kansanperinteen vaalija oli kotoisin Sammatista?, Elias Lönnrot, Aleksis Kivi, Mikael Agricola, J. V. Snellman
+7, 5, Minkä komediasarjan yksi päähahmoista on Sheldon Cooper?, Rillit huurussa, Frendit, Hannah Montana, 30 Rock
+7, 6, Mikä asiakaslehti on tullut tunnetuksi nikseistään?, Pirkka, Bluewings, Yhteishyvä, Etiketti
+7, 7, Mikä on laulaja Jonne Aaronin sukunimi?, Liimatainen, Koistinen, Mäkeläinen, Nurminen
+7, 8, Mika maa voitti vuoden 2018 miesten jalkapallon maailmanmestaruuden?, Ranska, Brasilia, Saksa, Italia
+7, 9, Minkä television viihdeohjelman vakio-osioita oli Perintöä odotellessa?, Kummelin, Vintiöiden, Studio Julmahuvin, Iltalypsyn
+7, 10, Minkä maalainen tutkimusmatkailija oli Tyko Brahe?, Tanskalainen, Saksalainen, Venäläinen, Islantilainen
+8, 1, Missä kaupungissa sijaitsee Caracallan kylpylöiden rauniot?, Roomassa, Ateenassa, Lissabonissa, Barcelonassa
+8, 2, Millä nimellä muusikko Gordon Sumner tunnetaan paremmin?, Sting, Meat Loaf, Bono, Van Morrison
+8, 3, Missä kuussa Suomessa vietetään naistenviikkoa?, Heinäkuussa, Joulukuussa, Tammikuussa, Huhtikuussa
+8, 4, Mitä eläimiä ovat piirroshahmot Bernard ja Bianca?, Hiiriä, Koiria, Lehmiä, Kissoja
+8, 5, Kenen näyttelijän esittämä sketsihahmo on Touko-Pouko?, Jukka Rasilan, Kari Ketosen, Jaakko Saariluoman, Aku Hirviniemen
+8, 6, Minkä värin sävy on seepia?, Ruskean, Keltaisen, Sinisen, Punaisen
+8, 7, Missä kuussa on kalenterivuoden sadas päivä?, Huhtikuussa, Toukokuussa, Kesäkuussa, Heinäkuussa
+8, 8, Mikä valuutta on käytössä Pohjois-Kyproksella?, Turkin liira, Kruunu, Euro, Kreikan drakma
+8, 9, Minä vuonna suoritettiin ensimmäinen televisioitu lottoarvonta?, 1971, 1931, 1951, 1981
+8, 10, Mikä on Ellinooran vuonna 2019 julkaisema kappale?, Veitset, Lautaset, Haarukat, Lusikat
+9, 1, Mikä hillo on olennainen osa Sacherkakkua?, Aprikoosihillo, Vadelmahillo, Omenahillo, Luumuhillo
+9, 2, Missä Kanadan provinssissa Toronton kaupunki sijaitsee?, Ontariossa, Quebecissa, Albertassa, Manitobassa
+9, 3, Kuka on lastenohjelmista tutun Ryhmä Haun johtaja?, Riku, Niko, Antero, Matti
+9, 4, Kuka voitti rallin maailmanmestaruuden vuonna 2019?, Ott Tänak, Jari-Matti Latvala, Kalle Rovanperä, Sébastien Ogier
+9, 5, Missä ihmisellä saattaa esiintyä myopiaa?, Silmässä, Suussa, Korvassa, Nenässä
+9, 6, Miltä Karibian saarelta poptähti Rihanna on kotoisin?, Barbadokselta, Grenadalta, Saint Lucialta, Jamaikalta
+9, 7, Missä Suomen kunnassa sijaitsee Raja-Joosepin rajanylityspaikka?, Inarissa, Sallassa, Ilomantsissa, Kuhmossa
+9, 8, Millä vuosikymmenellä Martin Luther King Jr. sai Nobelin rauhanpalkinnon?, 1960-luvulla, 1940-luvulla, 1950-luvulla, 1970-luvulla
+9, 9, Kuka nimitettiin Kiinan presidentiksi vuonna 2013?, Xi Jinping, Hu Jintao, Jiang Zemin, Deng Xiaoping
+9, 10, Kuka jäsenistä jätti ensimmäisenä Spice Girls -yhtyeen?, Geri Halliwell, Melanie Brown, Emma Bunton, Melanie Chisholm
+10, 1, Mitä kuuluisaa kanavaa alettiin rakentamaan huhtikuussa 1859?, Suezin kanavaa, Panaman Kanavaa, Keisarinkanavaa, Saimaan kanavaa
+10, 2, Kuinka monta suomalaista on pelannut koripallon NBA-liigassa?, kolme, yksi, neljä, viisi
+10, 3, Missä kaupungissa valtamerilaiva RMS Titanic rakennettiin?, Belfastissa, Liverpoolissa, Edinburghissa, Dublinissa
+10, 4, Kuka näyttelee Aaro Vaalannetta Salatut elämät -sarjassa?, Teemu Lehtilä, Timo Jurkka, Pete Lattu, Esko Kovero
+10, 5, Kuka seuraavista ei saanut Nobelin rauhanpalkintoa vuonna 1994?, Ariel Sharon, Jasser Arafat, Shimon Peres, Jitshak Rabin
+10, 6, Mikä on Bangladeshin puhutuin kieli?, Bengali, Urdu, Kannada, Ranska
+10, 7, Mikä valtameri mainitaan Hectorin kappaleessa Mandoliinimies?, Atlantti, Tyynimeri, Eteläinen jäämeri, Intian valtameri
+10, 8, Mikä on Mustanaamion hevosen nimi?, Hero, Khan, Angus, Spirit
+10, 9, Missä maassa pelataan vuosittain jääkiekon Spengler Cup?, Sveitsissä, Saksassa, Italiassa, Ranskassa
+10, 10, Mitkä kaksi alkoholia muodostavat perinteisesti Martini-drinkin?, Gin ja vermutti, Viski ja amaretto, Vodka ja triple sec, Tequila ja samppanja
+11, 1, Millä nimellä kutsutaan moskeijan saarnastuolia?, Minbar, Minareetti, Qibla, Hijab
+11, 2, Minkä pääkaupungin halki virtaa Dambovitajoki?, Bukarestin, Bratislavan, Prahan, Sofian
+11, 3, Mikä on Romeon sukunimi näytelmässä Romeo ja Julia?, Montague, Canavarro, Verdini, Capulet
+11, 4, Kuka seuraavista on kuuluisa valokuvaaja?, Robert Mapplethorpe, Robert Redford, Robert Ailes, Robert Shapiro
+11, 5, Mikä seuraavista on lapsille ja nuorille suunnattu ohjelmointikieli?, Scratch, Vink, Lynx, Minder
+11, 6, Missä kaupungissa sijaitsee maailman vanhin yliopisto?, Bolognassa, Milanossa, Torniossa, Siennassa
+11, 7, Kenen artistin alkuperäinen taiteilijanimi oli Anssi Savioja?, Frederikin, Markku Aron, Tapani Kansan, Topi Sorsakosken
+11, 8, Minkä alkuaineen kemiallinen merkki on Cn?, Kopernikiumin, Kaliforniumin, Ceriumin, Curiumin
+11, 9, Millä nimellä diktaattori Saloth Sar tunnetaan paremmin?, Pol Pot, Idi Amin, Francois Duvalier, Hastings Banda
+11, 10, Minkä ikäinen natsijohtaja Adolf Hitler oli kuollessaan?, 56-vuotias, 36-vuotias, 46-vuotias, 66-vuotias
+12, 1, Mikä on Pohjoismaiden suurin järvi?, Vänern, Vättern, Saimaa, Mälaren
+12, 2, Minkä niminen oli Suomen Euroviisukappale vuonna 2005?, Why?, Who?, When?, What?
+12, 3, Kuka Hollywood-legenda tunnettiin lempinimellä The Duke?, John Wyne, Charlie Chaplin, James Stewart, Paul Newman
+12, 4, Mikä seuraavista Ranskan kaupungeista sijaitsee eteläisimpänä?, Marseille, Lyon, Pariisi, Strasbourg
+12, 5, Missä Suomen kunnassa sijaitsee Kuopion lentoasema?, Siilinjärvellä, Lapinlahdella, Iisalmessa, Pielavedellä
+12, 6, Mikä on Helsingin nimikkoeläin?, Orava, Siili, Kettu, Jänis
+12, 7, Minkä niminen NHL-joukkue pelasi Atlantassa vuosina 1999-2011?, Trashers, Whalers, Flames, Rockies
+12, 8, Millä Havaijisaarten saarella sijaitsee Honolulun kaupunki?, Oahulla, Lanilla, Molokailla, Mauilla
+12, 9, Minkä valtion rahayksikkö vuosina 1942-1986 oli cruzeiro?, Brasilian, Meksikon, Kuuban, Argentiinan
+12, 10, Kuinka monta osaa on Kalle Päätalon kirjoittamassa Iijoki-sarjassa?, 26, 29, 32, 35
+13, 1, Mitä voi valmistaa ns. Bessemer-prosessilla?, Terästä, Juustoa, Verta, Lunta
+13, 2, Kenen mukaan on nimetty Savonlinnassa sijaitseva Olavinlinna?, Pyhän Olavin, Olavi Paavolaisen, Kustaa II Aadolfin, Olavi Sylikuninkaan
+13, 3, Mikä on maailman yleisin sementtityyppi?, Portlandsementti, Houstonsementti, Denversementti, Bostonsementti
+13, 4, Minkä jääkiekon SM-liigajoukkueen logossa on vuosiluku 1929?, KalPan, Ilveksen, TPS:n, SaiPan
+13, 5, Minkä pelialan yrityksen verkkokauppa on nimeltään Origin?, Electronic Artsin, Rovion, Nintendon, Kingin
+13, 6, Keiden suojeluspyhimys on Pyhä Elmo?, Merenkulkijoiden, Lääkäreiden, Sotilaiden, Metsästäjien
+13, 7, Minkä maalainen black metal -yhtye on Dimmu Borgir?, Norjalainen, Islantilainen, Tanskalainen, Ruotsalainen
+13, 8, Kenen brittikuninkaallisen tytär on Zara Tindall?, Prinsessa Annen, Prinssi Charlesin, Prinssi Andrewn, Prinssi Edwardin
+13, 9, Minkälaisia eläimiä ovat tyrannit?, Varpuslintuja, Karppikaloja, Kovakuoriaisia, Suomumatelijoita
+13, 10, Minkä niminen on Tsekin jääkiekon korkein taso?, Extraliga, Superliga, Primaliga, Masterliga
+14, 1, Minkä maan viihdetähtiä oli vuonna 1955 kuollut Carmen Miranda?, Brasilian, Meksikon, Espanjan, Portugalin
+14, 2, Missä Vanhan testamentin kirjassa kerrotaan Simsonista?, Tuomarien kirjassa, Jobin kirjassa, Jesajan kirjassa, Saarnaajan kirjassa
+14, 3, Mikä on Romanian rahayksikkö?, Leu, Lek, Lez, Lev
+14, 4, Minkä maan rahayksikkö on ouguiya?, Mauritanian, Myanmarin, Hondurasin, Mongolian
+14, 5, Minkä leikkikaluvalmistajan luoma lelusarja on My Little Pony?, Hasbron, Mattelin, Fisher-Pricen, Legon
+14, 6, Mikä oli Napoleon Bonaparten ensimmäisen aviovaimon etunimi?, Josephine, Geraldine, Isabelle, Helene
+14, 7, Mihin kuntaan kuuluu Suomen eteläisin maa-alue Bogskär?, Kökariin, Sottungaan, Lemlandiin, Jomalaan
+14, 8, Mikä seuraavista on myös hevosen satulanalusta?, Romaani, Novelli, Proosa, Dekkari
+14, 9, Mikä oli ensimmäinen suomenkielinen ooppera?, Pohjan neiti, Aino, Elinan surma, Juha
+14, 10, Kuka oli Länsi-Rooman viimeinen keisari?, Romulus Augustulus, Libius Severus, Petronius Maximus, Julianus Apostata
+15, 1, Minkä värinen kolmio on Bahaman liittovaltion lipussa?, Musta, Sininen, Keltainen, Valkoinen
+15, 2, Mikä elin on sairastunut jos kärsit urtikariasta?, Iho, Keuhkot, Sydän, Maksa
+15, 3, Kuka esiintyi ensimmäisenä Woodstockissa vuonna 1969?, Richie Havens, Ravi Shakar, Joan Baez, Jimi Hendrix
+15, 4, Mikä on raskain alkalimetalli?, Frankium, Cesium, Rubidium, Natrium
+15, 5, Kenen tytär Tellervo on Kalevalassa?, Tapion, Ilmarisen, Vellamon, Sampsa Pellervoisen
+15, 6, Kuka Suomen presidenteistä kuoli karkauspäivänä?, P.E. Svinhufvud, Urho Kekkonen, Risto Ryti, Kyösti Kallio
+15, 7, Mikä oli profeetta Muhammedin äidin nimi?, Amina, Latifa, Nehal, Zahra
+15, 8, Mikä esine on Gibraltarin lipussa?, Avain, Kruunu, Miekka, Harppu
+15, 9, Missä kuussa Yhdysvalloissa vietetään Labor Dayta?, Syyskuussa, Helmikuussa, Toukokuussa, Heinäkuussa
+15, 10, Mikä on vedyn jälkeen maailmankaikkeuden toiseksi yleisin alkuaine?, Helium, Hiili, Happi, Rauta
